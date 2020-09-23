@@ -1,0 +1,4 @@
+AWS_ACCESS_KEY="AKIASDMPIYSMXVGQGRXV"
+AWS_SECRET_KEY="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"
+region="eu-west-1"
+app_name="terraform-test"
