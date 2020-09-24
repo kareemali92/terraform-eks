@@ -93,3 +93,5 @@ output "eks_endpoint" {
 output "eks_cluster_name" {
   value = "${aws_eks_cluster.mycluster.name}"
 }
+
+## EKS nodes outputs
